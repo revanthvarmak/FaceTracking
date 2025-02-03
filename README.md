@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```bash
 git clone git@github.com:revanthvarmak/FaceTracking.git
 ```
-2.
+2.Run the script
 ```bash
 python model.py
 ```
